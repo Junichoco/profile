@@ -14,12 +14,32 @@ body{
   font-size: 19px;
 }
 
-.box1{
+.container{
   background-color: #bde0fe;
+  text-align: center;
+  padding: 10px;
+}
+
+.card{
+  border: 10px solid;
+  padding: 30px;
+  /* width: 50%; */
+  margin: 0 auto;
 }
 
 .fakemon{
   max-width: 200px;
   max-height: 200px;
   border-radius: 10px;
+}
+
+.photo{
+  max-width: 500px;
+  max-height: 500px;
+  border-radius: 10px;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
 }
