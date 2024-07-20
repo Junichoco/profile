@@ -1,0 +1,25 @@
+h1{
+  font-family: "Merriweather", serif;
+  font-weight: 700;
+  font-style: normal;
+  line-height: 1.5;
+}
+
+body{
+  color: #1d3557;
+  background-color: #cdb4db;
+  font-family: "Merriweather", serif;
+  font-weight: 200;
+  font-style: normal;
+  font-size: 19px;
+}
+
+.box1{
+  background-color: #bde0fe;
+}
+
+.fakemon{
+  max-width: 200px;
+  max-height: 200px;
+  border-radius: 10px;
+}
