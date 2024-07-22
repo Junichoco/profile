@@ -19,6 +19,10 @@ a{
   background-color: bisque;
 }
 
+.profile{
+  border-radius: 50%;
+}
+
 .container{
   background-color: #bde0fe;
   text-align: center;
