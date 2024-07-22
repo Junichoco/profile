@@ -49,10 +49,11 @@ a{
 } */
 
 .card{
-  border: 12px solid;
+  border: 5px solid;
   padding: 20px;
   width: 50%;
   margin: 0 auto;
+  border-radius: 10px;
 }
 
 .fakemon{
