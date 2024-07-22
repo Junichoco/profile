@@ -69,12 +69,12 @@ a{
 .photo{
   max-width: 700px;
   max-height: 700px;
-  border-radius: 10px;
+  /* border-radius: 10px; */
   transition: 0.3s ease;
 }
 
 .photo:hover{
-  size: 110%;
+  max-width: 800px;
 }
 
 .list-inline > li {
